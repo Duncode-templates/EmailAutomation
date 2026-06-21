@@ -1,6 +1,6 @@
-# Email Sender Automation
+# Nox Mail Automaton
 
-A Python package for automating branded, professional HTML emails.
+A professional Python package for automating branded, professional HTML emails.
 
 ## Features
 
@@ -17,7 +17,7 @@ pip install .
 ## Usage
 
 ```python
-from email_sender_automation import EmailAutomation
+from nox_mail_automaton import EmailAutomation
 
 # 1. Initialize the automation
 automation = EmailAutomation()

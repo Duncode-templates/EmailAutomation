@@ -1,5 +1,5 @@
 import unittest
-from email_sender_automation import EmailAutomation
+from nox_mail_automaton import EmailAutomation
 
 class TestEmailAutomation(unittest.TestCase):
     def setUp(self):

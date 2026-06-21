@@ -1,6 +1,6 @@
 {
-  "name": "Email Sender Automation",
-  "description": "A professional Python-based email automation tool with branded HTML templates and SMTP support.",
+  "name": "Nox Mail Automaton",
+  "description": "A rare and professional Python-based email automation tool with branded HTML templates and SMTP support.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
